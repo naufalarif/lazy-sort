@@ -1,4 +1,4 @@
-# lazy-sort
+# lazy-sort (experimental)
 This library is to help sorting data in JavaScript.
 
 # Installation
