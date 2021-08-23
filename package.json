@@ -1,5 +1,5 @@
 {
-  "name": "lazy-sort",
+  "name": "@mozartdev/lazy-sort",
   "version": "1.0.0",
   "description": "easy way to sort data in javascript",
   "main": "index.js",
@@ -12,6 +12,9 @@
     "library",
     "function"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "mozart dev",
   "license": "ISC",
   "devDependencies": {
