@@ -1,0 +1,17 @@
+{
+  "name": "lazy-sort",
+  "version": "1.0.0",
+  "description": "easy way to sort data in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sort",
+    "bubble-sort",
+    "library",
+    "function"
+  ],
+  "author": "mozart dev",
+  "license": "ISC"
+}
