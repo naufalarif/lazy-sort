@@ -17,7 +17,7 @@ const lazySort = require('lazy-sort');
 const sortByAsc = lazySort(data);
 
 // Sort by descending.
-const sortByDesc = lazySort(data, asc = false);
+const sortByDesc = lazySort(data, false);
 ```
 
 # Why lazy-sort?
