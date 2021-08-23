@@ -1,5 +1,3 @@
-const test = [12, 11, 10, 9];
-
 const lazySort = (payload = [], asc = true) => {
   // Duplicate array
   const data = payload.slice(0);
@@ -27,7 +25,5 @@ const lazySort = (payload = [], asc = true) => {
   // It will return a new array
   return data;
 };
-
-console.log(lazySort(test));
 
 module.exports = lazySort;
