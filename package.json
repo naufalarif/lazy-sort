@@ -12,9 +12,7 @@
     "library",
     "function"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
+  "private": false,
   "author": "mozart dev",
   "license": "ISC",
   "devDependencies": {
